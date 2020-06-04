@@ -1,2 +1,3 @@
 # hrermagan
-OpenFOAM, Multiphase Flow, Porous Media, Fluid Dynamics and Heat Transfer Codes
+OpenFOAM, CFD, Transport Phenomena, Multiphase Flow, Porous Media, 
+Hamidreza Ermagan
